@@ -1,6 +1,6 @@
 # PROJECT
 
-# BRIED
+# BRIEF
 
 The overall objective of this project was to create a CRUD application with the utilistation of supporting tools, methodologies and technologies that encapsulates all the core modules that has been covered during my training. 
 
