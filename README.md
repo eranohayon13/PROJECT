@@ -8,7 +8,7 @@ For this project I decided to create a fantasy football app that would have a da
 
 # BUILT WITH
 * MySQL - Database
-*Python - Source Code
-*GitHub - Version Control System
-*Trello - Project Tracking
-*Jenkins - CI server
+* Python - Source Code
+* GitHub - Version Control System
+* Trello - Project Tracking
+* Jenkins - CI server
