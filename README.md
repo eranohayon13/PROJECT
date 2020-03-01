@@ -12,3 +12,5 @@ For this project I decided to create a fantasy football app that would have a da
 * GitHub - Version Control System
 * Trello - Project Tracking
 * Jenkins - CI server
+* Pytest - Testing
+* Azure - Live Environment
