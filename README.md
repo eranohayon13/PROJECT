@@ -6,7 +6,7 @@ The overall objective of this project was to create a CRUD application with the 
 
 For this project I decided to create a fantasy football app that would have a database of premier league legends. This app would allow the user to create multiple teams and save them, as well as editing their current teams or deleting them.
 
-# Entity Relationship Diagramss (ERD)
+# Entity Relationship Diagrams(ERD)
 
 
 
